@@ -1,0 +1,22 @@
+{
+  "name": "ZLTest2",
+  "version": "0.1.0",
+  "summary": "A short description of ZLTest2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/912801324@qq.com/ZLTest2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "912801324@qq.com": "zhouliang@ehhaoyao.com"
+  },
+  "source": {
+    "git": "https://github.com/912801324@qq.com/ZLTest2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZLTest2/Classes/**/*"
+}

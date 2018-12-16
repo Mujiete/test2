@@ -1,0 +1,6 @@
+framework module ZLTest2 {
+  umbrella header "ZLTest2-umbrella.h"
+
+  export *
+  module * { export * }
+}

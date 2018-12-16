@@ -1,0 +1,16 @@
+PODS:
+  - ZLTest2 (0.1.0)
+
+DEPENDENCIES:
+  - ZLTest2 (from `../`)
+
+EXTERNAL SOURCES:
+  ZLTest2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZLTest2: 7cf157fd0ce6408dbfa6e7fef0887179ea6fc041
+
+PODFILE CHECKSUM: 37209db4f86afe17a2464359324a8638eb371fe5
+
+COCOAPODS: 1.6.0.beta.2
